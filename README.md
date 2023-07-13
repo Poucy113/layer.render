@@ -20,6 +20,8 @@
   |: ImageOutputNode -> OuptutNode
 |- data
  |: DataContainer
+ |- img
+  |: BufferedImageData
  |- file
   |: File -> DataContainer
   |- scene
